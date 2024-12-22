@@ -1,0 +1,141 @@
+{
+  "name": "BlackSwap",
+  "logoURI": "",
+  "keywords": [],
+  "timestamp": "1734850561",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0xeA0ba14ef404bc163d1aeE4c708480eaD067f9C3",
+      "name": "Baby Doge Coin",
+      "symbol": "BabyDoge",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0xeA0ba14ef404bc163d1aeE4c708480eaD067f9C3.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x006F83F13632852C1f2CC9af62E2a976fa8990C1",
+      "name": "Wrapped Test BNB",
+      "symbol": "wtBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x006F83F13632852C1f2CC9af62E2a976fa8990C1.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0xfd4e88DFCe6ffA3Ca207B60a74858EBD72D99997",
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0xfd4e88DFCe6ffA3Ca207B60a74858EBD72D99997.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x0F92E581281a7b70B8EAb79Fafa69f47cC01367F",
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x0F92E581281a7b70B8EAb79Fafa69f47cC01367F.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x9a0BFC5935b385120C04fEbF3ebE360D152558D8",
+      "name": "Simon's Catt",
+      "symbol": "CAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x9a0BFC5935b385120C04fEbF3ebE360D152558D8.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0xf08eA729d0951BF45495a38B3f29F88CE4f01F17",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0xf08eA729d0951BF45495a38B3f29F88CE4f01F17.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x8Ce8a5788a327480788e999Dbe27Cc7b84CBa621",
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x8Ce8a5788a327480788e999Dbe27Cc7b84CBa621.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x41f9DEeE5D0D0Edef131D53c59852Dfd22B4865F",
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x41f9DEeE5D0D0Edef131D53c59852Dfd22B4865F.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0xAe165Fa6017bB4195c8C9c01C36669B1F7377F86",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0xAe165Fa6017bB4195c8C9c01C36669B1F7377F86.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x27071f2733Ebb3a7DCEa80577E29f2a53b78a6fB",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x27071f2733Ebb3a7DCEa80577E29f2a53b78a6fB.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x57945DF84bABcEE8C42578d238a8Ff7f6707C838",
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x57945DF84bABcEE8C42578d238a8Ff7f6707C838.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x7385CD4C15c7584f249B6573b63B824Be284B300",
+      "name": "SOLANA",
+      "symbol": "SOL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x7385CD4C15c7584f249B6573b63B824Be284B300.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x4aE7abA1F1Af97E217c2AB9C737578c3e1D68df3",
+      "name": "Toncoin",
+      "symbol": "TON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x4aE7abA1F1Af97E217c2AB9C737578c3e1D68df3.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x560CDeb9D0E9370B12AA4d05B664c751d175ae9b",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x560CDeb9D0E9370B12AA4d05B664c751d175ae9b.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x3cF74fFb22C4633466db6D29b749031e32629D57",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x3cF74fFb22C4633466db6D29b749031e32629D57.svg"
+    },
+    {
+      "chainId": 97,
+      "address": "0x40cB0F272e929c773d001da7f552411199bd7230",
+      "name": "XRP",
+      "symbol": "XRP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x40cB0F272e929c773d001da7f552411199bd7230.svg"
+    }
+  ]
+}
