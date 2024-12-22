@@ -14,7 +14,7 @@
       "address": "0xeA0ba14ef404bc163d1aeE4c708480eaD067f9C3",
       "name": "Baby Doge Coin",
       "symbol": "BabyDoge",
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0xeA0ba14ef404bc163d1aeE4c708480eaD067f9C3.svg"
     },
     {
@@ -54,7 +54,7 @@
       "address": "0xf08eA729d0951BF45495a38B3f29F88CE4f01F17",
       "name": "Dogecoin",
       "symbol": "DOGE",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0xf08eA729d0951BF45495a38B3f29F88CE4f01F17.svg"
     },
     {
@@ -70,7 +70,7 @@
       "address": "0x41f9DEeE5D0D0Edef131D53c59852Dfd22B4865F",
       "name": "FLOKI",
       "symbol": "FLOKI",
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x41f9DEeE5D0D0Edef131D53c59852Dfd22B4865F.svg"
     },
     {
@@ -110,7 +110,7 @@
       "address": "0x4aE7abA1F1Af97E217c2AB9C737578c3e1D68df3",
       "name": "Toncoin",
       "symbol": "TON",
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/Black-Swan-Labs/token-list/refs/heads/main/logos/97/0x4aE7abA1F1Af97E217c2AB9C737578c3e1D68df3.svg"
     },
     {
